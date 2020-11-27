@@ -1,4 +1,0 @@
-# Introducción
-El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
-La imagen a estudiar se encuentra en Docker Hub como :
-portainer/portainer-ce
