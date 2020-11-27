@@ -1,6 +1,6 @@
 # Docker-portainer
 # Descripcion
-## El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
+El proyecto consiste en estudiar la herramienta Portainer, que nos permite el despliegue de contenedores utilizando una interfaz gráfica.
 # Indice
 1.- Introducción
 2.- Instalación
