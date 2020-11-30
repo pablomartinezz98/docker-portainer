@@ -14,4 +14,6 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 
 5.-Despliege de un contenedor httpd con una pagina personalizada y mapea por el puerto 8082.
 # Referencias
+
+https://alexpro.sytes.net/como-instalar-portainer-docker-de-forma-grafica/
 # Conclusiones
