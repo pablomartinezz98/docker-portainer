@@ -17,3 +17,6 @@ El proyecto consiste en estudiar la herramienta Portainer, que nos permite el de
 
 https://alexpro.sytes.net/como-instalar-portainer-docker-de-forma-grafica/
 # Conclusiones
+
+Docker Portainer está muy bien ya que para la gente que no tenga mucha idea sobre docker y quiere administrar le resulta mas o menos sencillo.
+Pero para la persona que tiene conocimientos es mejor hacerlo desde línea de comandos, por lo menos ese es mi punto de vista.
